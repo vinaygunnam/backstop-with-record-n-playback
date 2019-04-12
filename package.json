@@ -1,0 +1,17 @@
+{
+  "name": "backstop-with-record-n-playback",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Vinay Gunnam <vinay.gunnam@morningstar.com>",
+  "license": "MIT",
+  "scripts": {
+    "reset": "node lib/reset-recordings.js",
+    "reference": "npm run reset && backstop reference",
+    "test": "backstop test"
+  },
+  "dependencies": {
+    "atob": "^2.1.2",
+    "btoa": "^1.2.1",
+    "del": "^4.1.0"
+  }
+}

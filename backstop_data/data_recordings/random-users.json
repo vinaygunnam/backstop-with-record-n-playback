@@ -1,0 +1,24 @@
+{
+  "https://randomuser.me/api/?results=3": {
+    "GET": {
+      "body": "{\"results\":[{\"gender\":\"female\",\"name\":{\"title\":\"mrs\",\"first\":\"gertrude\",\"last\":\"hernandez\"},\"location\":{\"street\":\"7944 n stelling rd\",\"city\":\"yonkers\",\"state\":\"tennessee\",\"postcode\":79865,\"coordinates\":{\"latitude\":\"88.5665\",\"longitude\":\"77.1944\"},\"timezone\":{\"offset\":\"-3:30\",\"description\":\"Newfoundland\"}},\"email\":\"gertrude.hernandez@example.com\",\"login\":{\"uuid\":\"5695c8fd-ceb2-46e2-bf1d-b46799dafdcf\",\"username\":\"ticklishpanda374\",\"password\":\"altoids\",\"salt\":\"4ThA6kn9\",\"md5\":\"387a7cb925efbadb4e6b934512ae926c\",\"sha1\":\"9bb3ce9beeb7770e996ae767a7983071fbc14b59\",\"sha256\":\"a82487120cfce010ff48645370ed257886772faef1323e3ed98747ed00c9f39b\"},\"dob\":{\"date\":\"1964-12-16T04:44:05Z\",\"age\":54},\"registered\":{\"date\":\"2010-02-13T09:38:26Z\",\"age\":9},\"phone\":\"(586)-987-9728\",\"cell\":\"(058)-959-7241\",\"id\":{\"name\":\"SSN\",\"value\":\"681-11-8058\"},\"picture\":{\"large\":\"https://randomuser.me/api/portraits/women/54.jpg\",\"medium\":\"https://randomuser.me/api/portraits/med/women/54.jpg\",\"thumbnail\":\"https://randomuser.me/api/portraits/thumb/women/54.jpg\"},\"nat\":\"US\"},{\"gender\":\"female\",\"name\":{\"title\":\"miss\",\"first\":\"ellie\",\"last\":\"rose\"},\"location\":{\"street\":\"7113 highfield road\",\"city\":\"tuam\",\"state\":\"tipperary\",\"postcode\":59808,\"coordinates\":{\"latitude\":\"52.8072\",\"longitude\":\"-76.9880\"},\"timezone\":{\"offset\":\"+4:00\",\"description\":\"Abu Dhabi, Muscat, Baku, Tbilisi\"}},\"email\":\"ellie.rose@example.com\",\"login\":{\"uuid\":\"d18df8eb-462a-4c21-ae09-d9c5c39b5ed8\",\"username\":\"heavydog763\",\"password\":\"trinity\",\"salt\":\"7IbP6yxL\",\"md5\":\"e958816a473fe33e2dd97a758c483c2b\",\"sha1\":\"805126dbdcdf292c04771f0d4658d90136a39fca\",\"sha256\":\"9489ab93adcf98def4b4fa4ee5b2d1c2a73d52aef5a151dce4e16f49db826ceb\"},\"dob\":{\"date\":\"1970-02-16T20:00:20Z\",\"age\":49},\"registered\":{\"date\":\"2010-02-04T21:47:07Z\",\"age\":9},\"phone\":\"011-892-5182\",\"cell\":\"081-568-1043\",\"id\":{\"name\":\"PPS\",\"value\":\"1915642T\"},\"picture\":{\"large\":\"https://randomuser.me/api/portraits/women/74.jpg\",\"medium\":\"https://randomuser.me/api/portraits/med/women/74.jpg\",\"thumbnail\":\"https://randomuser.me/api/portraits/thumb/women/74.jpg\"},\"nat\":\"IE\"},{\"gender\":\"female\",\"name\":{\"title\":\"ms\",\"first\":\"yasemin\",\"last\":\"kuday\"},\"location\":{\"street\":\"2351 talak göktepe cd\",\"city\":\"nevşehir\",\"state\":\"rize\",\"postcode\":70677,\"coordinates\":{\"latitude\":\"80.9770\",\"longitude\":\"19.7253\"},\"timezone\":{\"offset\":\"+5:30\",\"description\":\"Bombay, Calcutta, Madras, New Delhi\"}},\"email\":\"yasemin.kuday@example.com\",\"login\":{\"uuid\":\"0ae669e7-2b77-4c0d-b381-c499d21752f2\",\"username\":\"ticklishelephant994\",\"password\":\"spidey\",\"salt\":\"RTXsxLrs\",\"md5\":\"84d64d765468d5c851797b8ecfcf9e19\",\"sha1\":\"2a19938174e9b81dec057e060d730d4bc1a58bdb\",\"sha256\":\"2306e780b6840db2cb0cb36da878ff132f30202da5e49b94f3cad35537124ff8\"},\"dob\":{\"date\":\"1965-06-17T14:10:04Z\",\"age\":53},\"registered\":{\"date\":\"2011-12-15T05:36:04Z\",\"age\":7},\"phone\":\"(467)-600-9380\",\"cell\":\"(670)-992-3542\",\"id\":{\"name\":\"\",\"value\":null},\"picture\":{\"large\":\"https://randomuser.me/api/portraits/women/24.jpg\",\"medium\":\"https://randomuser.me/api/portraits/med/women/24.jpg\",\"thumbnail\":\"https://randomuser.me/api/portraits/thumb/women/24.jpg\"},\"nat\":\"TR\"}],\"info\":{\"seed\":\"29c90be639e76707\",\"results\":3,\"page\":1,\"version\":\"1.2\"}}",
+      "headers": {
+        "date": "Fri, 12 Apr 2019 18:54:35 GMT, undefined",
+        "content-encoding": "br",
+        "etag": "W/\"c71-5JyqbZDvsVzSW82t1d5Mwg\"",
+        "server": "cloudflare",
+        "status": "200",
+        "x-powered-by": "Express",
+        "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+        "vary": "Accept-Encoding",
+        "content-type": "application/json; charset=utf-8",
+        "access-control-allow-origin": "*",
+        "cache-control": "no-cache",
+        "connection": "undefined",
+        "cf-ray": "4c6768df3b18c526-ORD",
+        "content-length": "undefined"
+      },
+      "status": 200
+    }
+  }
+}
