@@ -2,7 +2,7 @@
   "name": "backstop-with-record-n-playback",
   "version": "1.0.0",
   "main": "index.js",
-  "author": "Vinay Gunnam <vinay.gunnam@morningstar.com>",
+  "author": "Vinay Gunnam <vinaygunnam@live.com>",
   "license": "MIT",
   "scripts": {
     "reset": "node lib/reset-recordings.js",
